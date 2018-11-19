@@ -1,0 +1,14 @@
+C:\Users\wc2015-0679\source\repos\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\wc2015-0679\source\repos\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\wc2015-0679\source\repos\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\wc2015-0679\source\repos\Practica1\Practica1\obj\Debug\Practica1.csprojAssemblyReference.cache
+C:\Users\wc2015-0679\source\repos\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\wc2015-0679\source\repos\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\wc2015-0679\source\repos\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Users\wagne\source\repos\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\wagne\source\repos\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\wagne\source\repos\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\wagne\source\repos\Practica1\Practica1\obj\Debug\Practica1.csprojAssemblyReference.cache
+C:\Users\wagne\source\repos\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\wagne\source\repos\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\wagne\source\repos\Practica1\Practica1\obj\Debug\Practica1.pdb
